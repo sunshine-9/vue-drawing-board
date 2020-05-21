@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Image",
+        "icon": "icon-tupian",
+        "cn": "图片"
+    },
+    {
+        "name": "Move",
+        "icon": "icon-arrow",
+        "cn": "移动"
+    },
+    {
+        "name": "Draw",
+        "icon": "icon-pan_icon",
+        "cn": "画笔"
+    },
+    {
+        "name": "Line",
+        "icon": "icon-line",
+        "cn": "直线"
+    },
+    {
+        "name": "Arrow",
+        "icon": "icon-ai37",
+        "cn": "箭头"
+    },
+    {
+        "name": "Circle",
+        "icon": "icon-yuanxingxuankuang",
+        "cn": "圆形"
+    },
+    {
+        "name": "Rectangular",
+        "icon": "icon-juxing",
+        "cn": "矩形"
+    },
+    {
+        "name": "Triangle",
+        "icon": "icon-xingzhuang-sanjiaoxing",
+        "cn": "三角形"
+    },
+    {
+        "name": "Text",
+        "icon": "icon-wenzi",
+        "cn": "文字"
+    },
+    {
+        "name": "Select",
+        "icon": "icon-caijian",
+        "cn": "裁剪"
+    },
+    {
+        "name": "PreStep",
+        "icon": "icon--shangyibu",
+        "cn": "上一步"
+    },
+    {
+        "name": "NextStep",
+        "icon": "icon--xiayibu",
+        "cn": "下一步"
+    },
+    {
+        "name": "Save",
+        "icon": "icon-save",
+        "cn": "保存"
+    },
+    {
+        "name": "Delete",
+        "icon": "icon-del",
+        "cn": "删除"
+    }
+]

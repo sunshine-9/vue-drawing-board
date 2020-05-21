@@ -1,0 +1,21 @@
+[{
+        "name": "Draw",
+        "icon": "icon-pan_icon",
+        "cn": "画笔"
+    },
+    {
+        "name": "Line",
+        "icon": "icon-line",
+        "cn": "直线"
+    },
+    {
+        "name": "Rectangular",
+        "icon": "icon-juxing",
+        "cn": "矩形"
+    },
+    {
+        "name": "Select",
+        "icon": "icon-caijian",
+        "cn": "裁剪"
+    }
+]
